@@ -56,6 +56,12 @@ books_db = [
         "year":"1943",
         "score": 426
     }
+    {
+        "id": ,
+        "title":"La Hiliada",
+        "year":"siglo VIII a.C",
+        "score": 350
+    }
 ]
 
 app = FastAPI() ### dentro de app guardo FastAPI()
