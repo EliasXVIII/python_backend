@@ -55,7 +55,7 @@ books_db = [
         "title":"El Principito",
         "year":"1943",
         "score": 426
-    }
+    },
     {
         "id": 8,
         "title":"La Hiliada",
